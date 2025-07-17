@@ -1,0 +1,14 @@
+C:\Users\muzeyyenbutun\Desktop\Microsoft\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\LibraryManagementSystem.exe
+C:\Users\muzeyyenbutun\Desktop\Microsoft\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\LibraryManagementSystem.deps.json
+C:\Users\muzeyyenbutun\Desktop\Microsoft\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\LibraryManagementSystem.runtimeconfig.json
+C:\Users\muzeyyenbutun\Desktop\Microsoft\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\LibraryManagementSystem.dll
+C:\Users\muzeyyenbutun\Desktop\Microsoft\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net7.0\LibraryManagementSystem.pdb
+C:\Users\muzeyyenbutun\Desktop\Microsoft\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muzeyyenbutun\Desktop\Microsoft\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\muzeyyenbutun\Desktop\Microsoft\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.AssemblyInfo.cs
+C:\Users\muzeyyenbutun\Desktop\Microsoft\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\muzeyyenbutun\Desktop\Microsoft\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.dll
+C:\Users\muzeyyenbutun\Desktop\Microsoft\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\refint\LibraryManagementSystem.dll
+C:\Users\muzeyyenbutun\Desktop\Microsoft\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.pdb
+C:\Users\muzeyyenbutun\Desktop\Microsoft\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\LibraryManagementSystem.genruntimeconfig.cache
+C:\Users\muzeyyenbutun\Desktop\Microsoft\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net7.0\ref\LibraryManagementSystem.dll
